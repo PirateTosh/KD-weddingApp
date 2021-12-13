@@ -9,7 +9,7 @@
 export const EventId = "CSkW4fMnZzggCi4PS";
 export const AppTItle = "Raj & Simran's Italian Saga Wedding";
 export const eventTitle = "Raj & Simran's Italian Saga Wedding";
-export const AppShortName = "TheKD";
+export const AppShortName = "R & S WEDDING";
 export const AppURL = "";
 export const isMobile = window.innerWidth <= 500;
 
