@@ -341,7 +341,7 @@ class header extends React.Component {
                               <div className="icon-div">
                                 <span className="icon-bride-and-groom commonIcon icon-white iconp" />
                               </div>
-                              <p className="menuName">BRIDE & GROOM</p>
+                              <p className="menuName">Kriti & Avi</p>
                             </div>
                           </div>
                         )}

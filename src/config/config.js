@@ -6,10 +6,10 @@
 // export const isMobile = window.innerWidth <= 500;
 
 
-export const EventId = "CSkW4fMnZzggCi4PS";
-export const AppTItle = "Raj & Simran's Italian Saga Wedding";
-export const eventTitle = "Raj & Simran's Italian Saga Wedding";
-export const AppShortName = "R & S WEDDING";
+export const EventId = "WqRnyqjPvx4ot7ins";
+export const AppTItle = "K & A WEDDING";
+export const eventTitle = "K & A WEDDING";
+export const AppShortName = "K & A WEDDING";
 export const AppURL = "";
 export const isMobile = window.innerWidth <= 500;
 

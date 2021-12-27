@@ -224,7 +224,7 @@ class Menu extends React.Component {
                               }}
                             />
                             <p className="iconName appBodyFontFamily appBodyFontColor">
-                              BRIDE & GROOM
+                              Kriti & Avi
                             </p>
                           </div>
                         )}
@@ -256,7 +256,7 @@ class Menu extends React.Component {
                   }}
                 />
                 <p className="iconName appBodyFontFamily appBodyFontColor">
-                  DESTINATION
+                  DUBAI
                 </p>
               </li>
             ) : null}
@@ -323,7 +323,7 @@ class Menu extends React.Component {
                   }}
                 />
                 <p className="iconName appBodyFontFamily appBodyFontColor">
-                  SPEAKERS
+                  HOTELS
                 </p>
               </li>
             ) : null}
@@ -371,7 +371,7 @@ class Menu extends React.Component {
                         }}
                       />
                       <p className="iconName appBodyFontFamily appBodyFontColor">
-                        TRAVEL DETAILS
+                        COVID-19
                       </p>
                     </li>
                   );
@@ -455,7 +455,7 @@ class Menu extends React.Component {
                         }}
                       />
                       <p className="iconName appBodyFontFamily appBodyFontColor">
-                        WISHES
+                        BLESSINGS
                       </p>
                     </li>
                   )}

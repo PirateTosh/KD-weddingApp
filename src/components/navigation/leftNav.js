@@ -484,7 +484,7 @@ class leftNav extends React.Component {
                               <span className="icon-bride-and-groom commonIcon icon-white iconp" />
                             </div>
                             <p className="menuName" style={{ float: "left" }}>
-                              BRIDE & GROOM
+                              KRITI & AVI
                             </p>
                           </div>
                         </div>
@@ -526,7 +526,7 @@ class leftNav extends React.Component {
                         <span className="icon-destination commonIcon icon-white iconp" />
                       </div>
                       <p className="menuName" style={{ float: "left" }}>
-                        DESTINATION
+                        DUBAI
                       </p>
                     </div>
                   </li>
@@ -613,7 +613,7 @@ class leftNav extends React.Component {
                         <span className="icon-travel-details commonIcon icon-white iconp" />
                       </div>
                       <p className="menuName" style={{ float: "left" }}>
-                        TRAVEL DETAILS
+                        COVID-19
                       </p>
                     </div>
                   </li>
@@ -708,7 +708,7 @@ class leftNav extends React.Component {
                         <span className="icon-wishes commonIcon icon-white iconp" />
                       </div>
                       <p className="menuName" style={{ float: "left" }}>
-                        WISHES
+                        BLESSINGS
                       </p>
                     </div>
                   </li>

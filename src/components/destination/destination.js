@@ -62,7 +62,7 @@ class destination extends React.Component {
     this.sessionGuestId = localStorage.getItem("guestId");
 
     if (isMobile) {
-      $("#spanHeaderText").html("Destination");
+      $("#spanHeaderText").html("DUBAI");
       $(".notificationBell").show();
       $(".appLogo").hide();
       $(".chat").show();
